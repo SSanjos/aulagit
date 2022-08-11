@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	String name = "Sandro";
 
 System.out.println("Meu nome é" + name);
+System.out.println("Nova linha");
 
 }
 
